@@ -1,2 +1,3 @@
 # init-repo
 init
+test
